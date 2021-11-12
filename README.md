@@ -1,8 +1,18 @@
-### Hi there 👋
+# Scoooolz
+Hello! you can read this. No worries 😅
 
-Here are some ideas to get you started:
+## About
 
-- 🌱 I’m currently learning Node.JS
-- ⚡ Fun fact: You are smart if you study often.
+My name is Bagas Dwi Ferdian.
 
-![Scoooolz github profile](https://github-readme-stats.vercel.app/api?username=scoooolz&show_icons=true&theme=synthwave)
+I am born in Banten, Indonesian.
+
+I am currently learning [Node.js](https://nodejs.org/), Html, Css, [JavaScript](https://www.javascript.com/)
+
+## Stats
+Powered by [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![Scoooolz github profile](https://github-readme-stats.vercel.app/api?username=Scoooolz&show_icons=true&count_private=true&include_all_commits=true&custom_title=Scoooolz+GitHub+Stats&theme=tokyonight)](https://github.com/Scoooolz)
+
+
+###### Thankyou for reading this!
