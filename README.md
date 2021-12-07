@@ -5,7 +5,7 @@ Hello! you can read this. No worries 😅
 
 My name is Bagas Dwi Ferdian.
 
-I am born in Banten, Indonesian.
+I am born in Banten, Indonesia.
 
 I am currently learning [Node.js](https://nodejs.org/), Html, Css, [JavaScript](https://www.javascript.com/)
 
