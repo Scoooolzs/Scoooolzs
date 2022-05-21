@@ -1,6 +1,3 @@
-# .\~♢ Scoooolz ♢\~.
-Hello! you can read this. No worries 😅
-
 ## About
 
 My name is Bagas Dwi Ferdian.
