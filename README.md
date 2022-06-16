@@ -4,7 +4,7 @@ My name is Bagas Dwi Ferdian.
 
 I am born in Banten, Indonesia.
 
-I am currently learning [Node.js](https://nodejs.org/), Html, Css, [JavaScript](https://www.javascript.com/)
+I am currently learning [node.js](https://nodejs.org/), HTML, CSS, [JavaScript](https://www.javascript.com/)
 
 ## Repository
 You can check my all repository [here!](https://github.com/Scoooolzs?tab=repositories)
